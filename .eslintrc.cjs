@@ -26,6 +26,6 @@ module.exports = {
     'vue/no-mutating-props': 'off',
     'vue/multi-word-component-names': 'off',
     'no-param-reassign': 'off',
-    '@typescript-eslint/no-require-imports': 'off'
+    "vue/no-multiple-template-root": "off"
   }
 }
