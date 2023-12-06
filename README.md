@@ -1,6 +1,10 @@
 # JT_project
 
-This template should help get you started developing with Vue 3 in Vite.
+node version > 18
+
+target
+[] 1
+
 
 ## Recommended IDE Setup
 
