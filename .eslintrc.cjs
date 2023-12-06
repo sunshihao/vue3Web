@@ -21,5 +21,11 @@ module.exports = {
   ],
   parserOptions: {
     ecmaVersion: 'latest'
+  },
+  rules: {
+    'vue/no-mutating-props': 'off',
+    'vue/multi-word-component-names': 'off',
+    'no-param-reassign': 'off',
+    '@typescript-eslint/no-require-imports': 'off'
   }
 }
