@@ -2,7 +2,7 @@
 
 import TheWelcome from '../components/TheWelcome.vue'
 
-// const arr = "111"
+const arr = "111"
 
 // const ooo = "222"
 
@@ -12,6 +12,7 @@ import TheWelcome from '../components/TheWelcome.vue'
 
 <template>
   <main>
+    {{ arr }}
     <TheWelcome />
   </main>
 </template>
